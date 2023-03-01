@@ -1,0 +1,28 @@
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    background-color: white;
+}
+
+.boton{
+    background-color: red;
+}
+
+a{
+    color: white;
+}
+
+.cuerpo{
+    color: red;
+}
+
+body{
+    background-image: url(https://img.freepik.com/vector-premium/patron-musica-transparente-sobre-fondo-blanco-diseno-creativo-icono-musica-simple-puede-utilizar-papel-tapiz-fondo-pagina-web-textil-impresion-ui-ux_159242-3137.jpg?w=826);
+}
+
+.tabla{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+}
+

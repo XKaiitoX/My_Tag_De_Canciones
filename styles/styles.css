@@ -1,0 +1,46 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(255, 0, 0);
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lilita One', cursive;
+    background-color: white;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lilita One', cursive;
+    background-color: white;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.boton{
+    background-color: red;
+}
+
+a{
+    color: white;
+}
+
+body{
+ background-color: white;
+}
+
+
+.audios{
+    
+}
+
+
